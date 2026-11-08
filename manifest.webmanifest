@@ -1,6 +1,7 @@
 {
   "name": "Shambavi Sandalwood & Redwood",
   "short_name": "Shambavi",
+  "description": "Shambavi Sandalwood and Redwood Company",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
