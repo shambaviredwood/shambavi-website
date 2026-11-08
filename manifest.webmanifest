@@ -1,0 +1,21 @@
+{
+  "name": "Shambavi Sandalwood & Redwood",
+  "short_name": "Shambavi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#4b2e1e",
+  "icons": [
+    {
+      "src": "./shambavi-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./shambavi-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
